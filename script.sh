@@ -17,12 +17,9 @@ echo 'Server closed. Saving!'
 echo '----------------------'
 sh ./save.sh
 
-while true; do
-    echo '----------------'
-    echo "Press Q to quit"
-    echo '----------------'
-    read -t 0.25 -N 1 input
-    if [[ $input = "q" ]] || [[ $input = "Q" ]]; then
-        break 
-    fi
-done
+
+echo '----------------'
+echo "Press Q to quit"
+echo '----------------'
+read -t 0.25 -N 1 input
+break
