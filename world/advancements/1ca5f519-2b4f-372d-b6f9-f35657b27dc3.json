@@ -887,6 +887,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-04-20 21:36:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2020-04-20 21:41:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-04-19 15:21:15 +0200"
@@ -968,6 +980,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-04-20 13:43:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-04-20 21:36:34 +0200"
     },
     "done": true
   },
@@ -1161,14 +1179,20 @@
     "criteria": {
       "minecraft:forest": "2020-04-18 11:00:54 +0200",
       "minecraft:mountains": "2020-04-19 19:32:10 +0200",
+      "minecraft:desert_hills": "2020-04-20 21:53:28 +0200",
       "minecraft:desert": "2020-04-19 19:34:47 +0200",
+      "minecraft:warm_ocean": "2020-04-20 21:56:51 +0200",
+      "minecraft:deep_lukewarm_ocean": "2020-04-20 22:14:35 +0200",
+      "minecraft:savanna_plateau": "2020-04-20 21:59:16 +0200",
       "minecraft:beach": "2020-04-18 10:59:47 +0200",
+      "minecraft:dark_forest": "2020-04-20 22:13:20 +0200",
       "minecraft:river": "2020-04-18 11:01:07 +0200",
       "minecraft:lukewarm_ocean": "2020-04-19 20:07:43 +0200",
       "minecraft:birch_forest_hills": "2020-04-18 14:14:26 +0200",
       "minecraft:wooded_mountains": "2020-04-19 19:33:01 +0200",
       "minecraft:wooded_hills": "2020-04-19 08:58:14 +0200",
       "minecraft:swamp": "2020-04-18 14:13:11 +0200",
+      "minecraft:savanna": "2020-04-20 21:34:24 +0200",
       "minecraft:plains": "2020-04-19 20:04:18 +0200"
     },
     "done": false
@@ -2631,6 +2655,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-04-18 17:43:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2020-04-20 21:41:05 +0200"
     },
     "done": true
   },
