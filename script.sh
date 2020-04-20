@@ -21,5 +21,9 @@ sh ./save.sh
 echo '----------------'
 echo "Press Q to quit"
 echo '----------------'
-read -t 0.25 -N 1 input
-break
+while true; do
+    read -t 0.25 -N 1 input
+    if [[ $input = "q" ]] || [[ $input = "Q" ]]; then
+        break 
+    fi
+done
