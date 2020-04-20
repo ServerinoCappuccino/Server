@@ -1,86 +1,42 @@
-[13:29:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:29:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:29:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:29:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:29:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:29:50] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[13:29:50] [Server thread/INFO]: Loading properties
-[13:29:50] [Server thread/INFO]: Default game type: SURVIVAL
-[13:29:50] [Server thread/INFO]: Generating keypair
-[13:29:51] [Server thread/INFO]: Starting Minecraft server on 192.168.196.11:25565
-[13:29:51] [Server thread/INFO]: Using default channel type
-[13:29:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:29:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:29:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:29:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:29:51] [Server thread/INFO]: Preparing level "world"
-[13:29:51] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:29:52] [Server thread/INFO]: Loaded 6 recipes
-[13:29:52] [Server thread/INFO]: Loaded 825 advancements
-[13:29:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:29:53] [Server thread/INFO]: Preparing spawn area: 0%
-[13:29:53] [Server thread/INFO]: Preparing spawn area: 0%
-[13:29:53] [Server thread/INFO]: Preparing spawn area: 0%
-[13:29:55] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:29:55] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:29:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[13:29:55] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:29:56] [Server thread/INFO]: Time elapsed: 3392 ms
-[13:29:56] [Server thread/INFO]: Done (4.615s)! For help, type "help"
-[13:30:13] [Server thread/INFO]: grumpina3443[/192.168.196.98:56040] logged in with entity id 261 at (-236.7582711168534, 68.0, 59.52637108673719)
-[13:30:13] [Server thread/INFO]: grumpina3443 joined the game
-[13:30:26] [Server thread/INFO]: Enrahedron[/192.168.196.144:56528] logged in with entity id 267 at (-209.23750001192093, 79.0, 102.40459406955839)
-[13:30:26] [Server thread/INFO]: Enrahedron joined the game
-[13:31:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/385, l='world', x=-190.38, y=64.00, z=56.37]
-[13:31:27] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/385, l='world', x=-190.38, y=64.00, z=56.37]
-[14:01:50] [Server thread/WARN]: grumpina3443 moved too quickly! 3.798181576656134,1.0,-9.544558572787054
-[14:24:46] [Server thread/INFO]: grumpina3443 has made the advancement [Voluntary Exile]
-[14:38:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14733, l='world', x=-190.89, y=64.00, z=54.85]
-[14:38:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/14733, l='world', x=-190.89, y=64.00, z=54.85]
-[14:39:17] [Server thread/WARN]: grumpina3443 moved too quickly! -10.019598560828001,0.16610926093821377,-1.0309550326147985
-[14:52:08] [Server thread/INFO]: Enrahedron was shot by Skeleton
-[14:55:39] [Server thread/INFO]: Enrahedron has made the advancement [Voluntary Exile]
-[14:57:34] [Server thread/WARN]: grumpina3443 moved too quickly! 0.4652747521619176,0.0,-10.094393735572766
-[15:03:56] [Server thread/INFO]: <Enrahedron> eeeee
-[15:08:22] [Server thread/INFO]: kunkkaII[/192.168.196.141:52318] logged in with entity id 20833 at (-239.46759822289047, 71.0, 51.44116902774278)
-[15:08:22] [Server thread/INFO]: kunkkaII joined the game
-[15:13:02] [Server thread/INFO]: Steelboot[/192.168.196.11:51252] logged in with entity id 22004 at (-214.3689204922136, 67.875, 30.560009088968453)
-[15:13:02] [Server thread/INFO]: Steelboot joined the game
-[15:25:25] [Server thread/WARN]: kunkkaII moved wrongly!
-[15:29:06] [Server thread/WARN]: kunkkaII moved wrongly!
-[15:30:10] [Server thread/WARN]: kunkkaII moved wrongly!
-[15:31:20] [Server thread/INFO]: Enrahedron lost connection: Disconnected
-[15:31:20] [Server thread/INFO]: Enrahedron left the game
-[15:32:29] [Server thread/INFO]: Enrahedron[/192.168.196.144:57683] logged in with entity id 26811 at (-233.87275764619028, 71.5, 62.37181102730972)
-[15:32:29] [Server thread/INFO]: Enrahedron joined the game
-[15:35:40] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
-[15:35:40] [Server thread/INFO]: grumpina3443 left the game
-[15:35:40] [Server thread/WARN]: handleDisconnection() called twice
-[15:35:50] [Server thread/INFO]: grumpina3443[/192.168.196.98:57196] logged in with entity id 27407 at (-237.00927268022198, 65.0, 59.368000276054275)
-[15:35:50] [Server thread/INFO]: grumpina3443 joined the game
-[15:37:15] [Server thread/WARN]: grumpina3443 moved too quickly! -0.9190383399491395,-0.5,10.149280328261725
-[15:39:19] [Server thread/INFO]: Steelboot lost connection: Disconnected
-[15:39:19] [Server thread/INFO]: Steelboot left the game
-[15:42:46] [Server thread/INFO]: Enrahedron lost connection: Disconnected
-[15:42:46] [Server thread/INFO]: Enrahedron left the game
-[15:56:20] [Server thread/WARN]: kunkkaII moved wrongly!
-[15:56:28] [Server thread/WARN]: kunkkaII moved wrongly!
-[15:57:25] [Server thread/WARN]: kunkkaII moved wrongly!
-[16:18:28] [Server thread/WARN]: grumpina3443 moved too quickly! 4.862632014269707,0.0,8.746704477144636
-[16:26:39] [Server thread/WARN]: grumpina3443 moved too quickly! 1.8357759821466573,0.0,-9.899425167016929
-[16:36:11] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[16:36:11] [Server thread/INFO]: grumpina3443 left the game
-[16:38:59] [Server thread/INFO]: kunkkaII has made the advancement [Local Brewery]
-[16:50:19] [Server thread/INFO]: Stopping the server
-[16:50:19] [Server thread/INFO]: Stopping server
-[16:50:19] [Server thread/INFO]: Saving players
-[16:50:19] [Server thread/INFO]: Saving worlds
-[16:50:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[16:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:50:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[16:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:50:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[16:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:50:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:02:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:02:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:02:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:02:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:02:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:02:25] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:02:25] [Server thread/INFO]: Loading properties
+[17:02:25] [Server thread/INFO]: Default game type: SURVIVAL
+[17:02:25] [Server thread/INFO]: Generating keypair
+[17:02:26] [Server thread/INFO]: Starting Minecraft server on 192.168.196.11:25565
+[17:02:26] [Server thread/INFO]: Using default channel type
+[17:02:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:02:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:02:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:02:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:02:26] [Server thread/INFO]: Preparing level "world"
+[17:02:26] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:02:27] [Server thread/INFO]: Loaded 6 recipes
+[17:02:27] [Server thread/INFO]: Loaded 825 advancements
+[17:02:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:02:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:02:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:02:31] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:02:31] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:02:31] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[17:02:31] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[17:02:31] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:02:31] [Server thread/INFO]: Time elapsed: 3508 ms
+[17:02:31] [Server thread/INFO]: Done (4.844s)! For help, type "help"
+[17:02:36] [Server thread/INFO]: Stopping the server
+[17:02:36] [Server thread/INFO]: Stopping server
+[17:02:36] [Server thread/INFO]: Saving players
+[17:02:36] [Server thread/INFO]: Saving worlds
+[17:02:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:02:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:02:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
