@@ -1,13 +1,7 @@
 git add .
 
-echo 'Enter the commit message:'
-read commitMessage
+git commit -m "Just a commit message"
 
-git commit -m "$commitMessage"
+git push origin master
 
-echo 'Enter the name of the branch:'
-read branch
-
-git push origin $branch
-
-read
+echo 'Done'
