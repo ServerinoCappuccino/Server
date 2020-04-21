@@ -1,178 +1,136 @@
-[15:14:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:14:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:14:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:14:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:14:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:14:12] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[15:14:12] [Server thread/INFO]: Loading properties
-[15:14:12] [Server thread/INFO]: Default game type: SURVIVAL
-[15:14:12] [Server thread/INFO]: Generating keypair
-[15:14:12] [Server thread/INFO]: Starting Minecraft server on 192.168.196.11:25565
-[15:14:12] [Server thread/INFO]: Using default channel type
-[15:14:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:14:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:14:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:14:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:14:12] [Server thread/INFO]: Preparing level "world"
-[15:14:13] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:14:13] [Server thread/INFO]: Loaded 6 recipes
-[15:14:13] [Server thread/INFO]: Loaded 825 advancements
-[15:14:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:14:14] [Server thread/INFO]: Preparing spawn area: 0%
-[15:14:14] [Server thread/INFO]: Preparing spawn area: 0%
-[15:14:15] [Server thread/INFO]: Preparing spawn area: 0%
-[15:14:17] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[15:14:17] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[15:14:17] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[15:14:17] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[15:14:17] [Server thread/INFO]: Preparing spawn area: 13%
-[15:14:17] [Server thread/INFO]: Time elapsed: 3680 ms
-[15:14:17] [Server thread/INFO]: Done (4.870s)! For help, type "help"
-[15:19:43] [Server thread/INFO]: kunkkaII[/192.168.196.141:54001] logged in with entity id 210 at (1069.300000011921, 64.0, 390.3482764208125)
-[15:19:43] [Server thread/INFO]: kunkkaII joined the game
-[15:34:20] [Server thread/WARN]: kunkkaII moved wrongly!
-[15:35:47] [Server thread/INFO]: grumpina3443[/192.168.196.98:64659] logged in with entity id 6044 at (-236.59324510925887, 65.0, 59.41971846730896)
-[15:35:47] [Server thread/INFO]: grumpina3443 joined the game
-[15:36:19] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
-[15:36:19] [Server thread/INFO]: grumpina3443 left the game
-[15:36:54] [Server thread/INFO]: grumpina3443[/192.168.196.98:64668] logged in with entity id 7389 at (-236.59324510925887, 65.0, 59.41971846730896)
-[15:36:54] [Server thread/INFO]: grumpina3443 joined the game
-[15:37:09] [Server thread/WARN]: kunkkaII moved wrongly!
-[15:42:13] [Server thread/INFO]: Steelboot[/192.168.196.11:56492] logged in with entity id 9148 at (-217.03701748154506, 67.0, 28.528678599002568)
-[15:42:13] [Server thread/INFO]: Steelboot joined the game
-[15:42:25] [Server thread/WARN]: grumpina3443 moved too quickly! 7.1513506941645915,3.5,6.2354288313629525
-[15:42:28] [Server thread/WARN]: grumpina3443 moved too quickly! 8.918537235484308,-0.3697313641063431,4.609508343286834
-[15:47:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/12214, l='world', x=-190.20, y=64.00, z=54.36]
-[15:48:35] [Server thread/WARN]: kunkkaII moved wrongly!
-[15:56:04] [Server thread/WARN]: kunkkaII moved wrongly!
-[16:04:47] [Server thread/WARN]: kunkkaII moved wrongly!
-[16:05:20] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
-[16:05:20] [Server thread/INFO]: grumpina3443 left the game
-[16:06:13] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22134, l='world', x=-193.54, y=64.00, z=56.36]
-[16:07:46] [Server thread/WARN]: kunkkaII moved wrongly!
-[16:15:00] [Server thread/WARN]: kunkkaII moved wrongly!
-[16:18:53] [Server thread/WARN]: kunkkaII moved wrongly!
-[16:26:54] [Server thread/INFO]: grumpina3443[/192.168.196.98:65106] logged in with entity id 32011 at (293.36210132329745, 68.0, -930.3000000119209)
-[16:26:54] [Server thread/INFO]: grumpina3443 joined the game
-[16:35:19] [Server thread/INFO]: Enrahedron[/192.168.196.144:57942] logged in with entity id 37212 at (-182.30371307061822, 64.0, 48.2715494778013)
-[16:35:19] [Server thread/INFO]: Enrahedron joined the game
-[16:43:23] [Server thread/WARN]: grumpina3443 moved too quickly! -9.698961519517965,0.30408201058422435,2.835849428750649
-[16:49:17] [Server thread/INFO]: Enrahedron lost connection: Disconnected
-[16:49:17] [Server thread/INFO]: Enrahedron left the game
-[16:54:39] [Server thread/INFO]: kunkkaII lost connection: Disconnected
-[16:54:39] [Server thread/INFO]: kunkkaII left the game
-[17:00:16] [Server thread/WARN]: grumpina3443 moved too quickly! -7.294742930465844,5.5,4.261738828433209
-[17:04:28] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[17:04:28] [Server thread/INFO]: grumpina3443 left the game
-[17:04:38] [Server thread/INFO]: grumpina3443[/192.168.196.98:65428] logged in with entity id 45699 at (-215.75283955746022, 63.37456598182726, 49.63434520170714)
-[17:04:38] [Server thread/INFO]: grumpina3443 joined the game
-[17:05:23] [Server thread/WARN]: grumpina3443 was kicked for floating too long!
-[17:05:23] [Server thread/INFO]: grumpina3443 lost connection: Flying is not enabled on this server
-[17:05:23] [Server thread/INFO]: grumpina3443 left the game
-[17:05:30] [Server thread/INFO]: grumpina3443[/192.168.196.98:65432] logged in with entity id 45793 at (-198.7837432236469, 64.25220334025373, 68.29842347544644)
-[17:05:30] [Server thread/INFO]: grumpina3443 joined the game
-[17:10:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/46574, l='world', x=-190.39, y=64.00, z=54.71]
-[17:10:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/46574, l='world', x=-190.39, y=64.00, z=54.71]
-[17:12:45] [Server thread/INFO]: grumpina3443 lost connection: You logged in from another location
-[17:12:45] [Server thread/INFO]: grumpina3443 left the game
-[17:12:45] [Server thread/INFO]: grumpina3443[/192.168.196.98:65510] logged in with entity id 46986 at (-232.21467146496616, 65.0, 46.51586420942692)
-[17:12:45] [Server thread/INFO]: grumpina3443 joined the game
-[17:13:15] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[17:13:15] [Server thread/INFO]: grumpina3443 left the game
-[17:13:18] [Server thread/INFO]: grumpina3443[/192.168.196.98:65514] logged in with entity id 47163 at (-232.21467146496616, 65.0, 46.51586420942692)
-[17:13:18] [Server thread/INFO]: grumpina3443 joined the game
-[17:14:04] [Server thread/WARN]: grumpina3443 moved too quickly! 7.795983251365158,1.5,-6.297384892814058
-[17:15:11] [Server thread/WARN]: grumpina3443 moved too quickly! -4.24535129423478,-1.1414115878441322,9.034573442737411
-[17:19:16] [Server thread/WARN]: grumpina3443 moved too quickly! 10.219032080242528,1.044812420399012,0.018860576520616235
-[17:19:34] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[17:19:34] [Server thread/INFO]: grumpina3443 left the game
-[17:19:44] [Server thread/INFO]: grumpina3443[/192.168.196.98:49191] logged in with entity id 48202 at (-187.43565962448986, 64.0, 49.211013879720305)
-[17:19:44] [Server thread/INFO]: grumpina3443 joined the game
-[17:20:29] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[17:20:29] [Server thread/INFO]: grumpina3443 left the game
-[17:20:40] [Server thread/INFO]: grumpina3443[/192.168.196.98:49194] logged in with entity id 48418 at (-164.30777860142248, 65.0, 47.48250898426276)
-[17:20:40] [Server thread/INFO]: grumpina3443 joined the game
-[17:21:26] [Server thread/WARN]: grumpina3443 moved too quickly! -9.694782816280195,0.28468774925440954,2.876910233600455
-[17:23:11] [Server thread/WARN]: grumpina3443 moved too quickly! -3.3016395963070693,-5.2755951821747615,7.920257734506734
-[17:23:29] [Server thread/WARN]: grumpina3443 moved too quickly! 0.6831628545787964,0.3559539215485188,-10.124985990978104
-[17:25:10] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[17:25:10] [Server thread/INFO]: grumpina3443 left the game
-[17:25:17] [Server thread/INFO]: grumpina3443[/192.168.196.98:49237] logged in with entity id 49386 at (-231.51675073697905, 64.0, 52.161376688234846)
-[17:25:17] [Server thread/INFO]: grumpina3443 joined the game
-[17:29:02] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[17:29:02] [Server thread/INFO]: grumpina3443 left the game
-[17:32:37] [Server thread/INFO]: kunkkaII[/192.168.196.141:54255] logged in with entity id 50514 at (-156.6290748365162, 55.0, 43.222334996236384)
-[17:32:37] [Server thread/INFO]: kunkkaII joined the game
-[17:40:14] [Server thread/INFO]: Steelboot lost connection: Disconnected
-[17:40:14] [Server thread/INFO]: Steelboot left the game
-[17:43:33] [Server thread/WARN]: kunkkaII moved wrongly!
-[17:43:37] [Server thread/WARN]: kunkkaII moved wrongly!
-[17:43:39] [Server thread/WARN]: kunkkaII moved wrongly!
-[17:43:44] [Server thread/WARN]: kunkkaII moved wrongly!
-[17:43:47] [Server thread/WARN]: kunkkaII moved wrongly!
-[17:43:53] [Server thread/WARN]: kunkkaII moved wrongly!
-[17:44:19] [Server thread/INFO]: kunkkaII has made the advancement [Best Friends Forever]
-[17:54:40] [Server thread/INFO]: grumpina3443[/192.168.196.98:49672] logged in with entity id 56351 at (-201.3904285316463, 63.0, 36.62075780246713)
-[17:54:40] [Server thread/INFO]: grumpina3443 joined the game
-[17:55:13] [Server thread/WARN]: grumpina3443 was kicked for floating too long!
-[17:55:13] [Server thread/INFO]: grumpina3443 lost connection: Flying is not enabled on this server
-[17:55:13] [Server thread/INFO]: grumpina3443 left the game
-[17:55:20] [Server thread/INFO]: grumpina3443[/192.168.196.98:49676] logged in with entity id 56656 at (-231.48409682558633, 64.00133597911214, 64.44859603577761)
-[17:55:20] [Server thread/INFO]: grumpina3443 joined the game
-[17:55:53] [Server thread/WARN]: grumpina3443 moved too quickly! -6.974780077201103,0.0,7.170732238318877
-[17:56:06] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[17:56:06] [Server thread/INFO]: grumpina3443 left the game
-[17:56:14] [Server thread/INFO]: grumpina3443[/192.168.196.98:49678] logged in with entity id 56734 at (-216.01537309095812, 63.0, 110.34258087002145)
-[17:56:14] [Server thread/INFO]: grumpina3443 joined the game
-[18:01:04] [Server thread/WARN]: grumpina3443 moved too quickly! -9.364393429962718,0.0,3.8003862520196208
-[18:03:51] [Server thread/WARN]: grumpina3443 moved too quickly! 10.057829872845417,1.2491870787446828,-0.6286226131734551
-[18:05:30] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[18:05:30] [Server thread/INFO]: grumpina3443 left the game
-[18:05:38] [Server thread/INFO]: grumpina3443[/192.168.196.98:49774] logged in with entity id 58622 at (-227.8315815255995, 65.5, 46.821589631356204)
-[18:05:38] [Server thread/INFO]: grumpina3443 joined the game
-[18:06:06] [Server thread/WARN]: grumpina3443 moved too quickly! -10.007144005579704,1.0,0.10865381334775748
-[18:07:22] [Server thread/WARN]: grumpina3443 moved too quickly! -0.346311595512077,0.49520087700592086,-9.997864388617018
-[18:08:17] [Server thread/WARN]: grumpina3443 moved too quickly! 0.7322359625088097,1.0,-10.09868549222658
-[18:12:42] [Server thread/WARN]: grumpina3443 moved too quickly! -10.067502393173697,-1.4199999868869781,-0.6802044861036549
-[18:12:51] [Server thread/WARN]: grumpina3443 moved too quickly! 2.7596396476216967,3.7531999805212024,-8.942050472185532
-[18:16:48] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62087, l='world', x=-193.09, y=64.00, z=55.13]
-[18:18:16] [Server thread/INFO]: Enrahedron[/192.168.196.144:58626] logged in with entity id 62376 at (-201.206479627356, 81.0, 94.43993899073692)
-[18:18:16] [Server thread/INFO]: Enrahedron joined the game
-[18:19:09] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[18:19:09] [Server thread/INFO]: grumpina3443 left the game
-[18:19:19] [Server thread/INFO]: grumpina3443[/192.168.196.98:49871] logged in with entity id 63159 at (-203.771357210429, 64.0, 35.26930091631646)
-[18:19:19] [Server thread/INFO]: grumpina3443 joined the game
-[18:21:50] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[18:21:50] [Server thread/INFO]: grumpina3443 left the game
-[18:21:57] [Server thread/INFO]: grumpina3443[/192.168.196.98:49911] logged in with entity id 64249 at (-235.99098799282942, 65.0, 59.774343595302774)
-[18:21:57] [Server thread/INFO]: grumpina3443 joined the game
-[18:22:17] [Server thread/WARN]: grumpina3443 moved too quickly! 9.93863679017818,-0.5,-1.421093877076217
-[18:28:33] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
-[18:28:33] [Server thread/INFO]: grumpina3443 left the game
-[18:35:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/69975, l='world', x=-190.29, y=64.00, z=56.80]
-[18:41:43] [Server thread/INFO]: Enrahedron lost connection: Disconnected
-[18:41:43] [Server thread/INFO]: Enrahedron left the game
-[18:52:38] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/73177, l='world', x=-193.17, y=64.00, z=54.86]
-[18:54:15] [Server thread/INFO]: Steelboot[/192.168.196.11:58419] logged in with entity id 73317 at (-214.75398577200428, 67.0, 29.820421619781698)
-[18:54:15] [Server thread/INFO]: Steelboot joined the game
-[19:05:46] [Server thread/WARN]: Steelboot moved wrongly!
-[19:09:03] [Server thread/WARN]: kunkkaII moved wrongly!
-[19:09:04] [Server thread/INFO]: Steelboot lost connection: Disconnected
-[19:09:04] [Server thread/INFO]: Steelboot left the game
-[19:09:32] [Server thread/INFO]: kunkkaII lost connection: Disconnected
-[19:09:32] [Server thread/INFO]: kunkkaII left the game
-[19:09:48] [Server thread/INFO]: Unknown command
-[19:09:48] [Server thread/INFO]: /close<--[HERE]
-[19:09:52] [Server thread/INFO]: Stopping the server
-[19:09:52] [Server thread/INFO]: Stopping server
-[19:09:52] [Server thread/INFO]: Saving players
-[19:09:52] [Server thread/INFO]: Saving worlds
-[19:09:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:09:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:09:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:09:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:09:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:09:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:09:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:09:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:09:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:03:45] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:03:45] [Server thread/INFO]: Loading properties
+[20:03:45] [Server thread/INFO]: Default game type: SURVIVAL
+[20:03:45] [Server thread/INFO]: Generating keypair
+[20:03:45] [Server thread/INFO]: Starting Minecraft server on 192.168.196.11:25565
+[20:03:45] [Server thread/INFO]: Using default channel type
+[20:03:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:03:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:03:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:03:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:03:46] [Server thread/INFO]: Preparing level "world"
+[20:03:46] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:03:47] [Server thread/INFO]: Loaded 6 recipes
+[20:03:47] [Server thread/INFO]: Loaded 825 advancements
+[20:03:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:03:49] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:49] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:49] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:50] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:52] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[20:03:52] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[20:03:52] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[20:03:52] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:52] [Server thread/INFO]: Time elapsed: 3927 ms
+[20:03:52] [Server thread/INFO]: Done (5.911s)! For help, type "help"
+[20:04:16] [Server thread/INFO]: grumpina3443[/192.168.196.98:50223] logged in with entity id 182 at (-236.75116691772928, 65.0, 59.541908146555855)
+[20:04:16] [Server thread/INFO]: grumpina3443 joined the game
+[20:08:10] [Server thread/INFO]: kunkkaII[/192.168.196.141:54528] logged in with entity id 1289 at (-74.44163565573807, 11.0, 38.46368540953879)
+[20:08:10] [Server thread/INFO]: kunkkaII joined the game
+[20:22:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4664, l='world', x=-193.47, y=64.00, z=54.20]
+[20:25:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5818, l='world', x=-193.31, y=64.00, z=55.04]
+[20:29:49] [Server thread/INFO]: grumpina3443 lost connection: Timed out
+[20:29:49] [Server thread/INFO]: grumpina3443 left the game
+[20:29:59] [Server thread/INFO]: grumpina3443[/192.168.196.98:50492] logged in with entity id 8846 at (-932.4198810331818, 62.474654278907884, 30.379284586458624)
+[20:29:59] [Server thread/INFO]: grumpina3443 joined the game
+[20:31:02] [Server thread/INFO]: grumpina3443 drowned
+[20:31:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@44ed5c76[id=1ca5f519-2b4f-372d-b6f9-f35657b27dc3,name=grumpina3443,properties={},legacy=false] (/192.168.196.98:50497) lost connection: Disconnected
+[20:31:11] [Server thread/INFO]: grumpina3443 lost connection: Timed out
+[20:31:11] [Server thread/INFO]: grumpina3443 left the game
+[20:31:17] [Server thread/INFO]: grumpina3443[/192.168.196.98:50500] logged in with entity id 9761 at (-968.8235688878742, 59.60951229130564, 13.50509131982301)
+[20:31:17] [Server thread/INFO]: grumpina3443 joined the game
+[20:33:39] [Server thread/WARN]: grumpina3443 moved too quickly! 9.143346722819729,0.04519516503695087,-4.210263515873267
+[20:34:41] [Server thread/WARN]: grumpina3443 moved wrongly!
+[20:40:25] [Server thread/WARN]: kunkkaII moved too quickly! 0.06073627391580061,0.0,-10.100564573859828
+[20:40:33] [Server thread/INFO]: grumpina3443 lost connection: Timed out
+[20:40:33] [Server thread/INFO]: grumpina3443 left the game
+[20:40:45] [Server thread/INFO]: grumpina3443[/192.168.196.98:50593] logged in with entity id 15964 at (-825.3000000119209, 65.0, 13.57147536572432)
+[20:40:45] [Server thread/INFO]: grumpina3443 joined the game
+[20:46:53] [Server thread/WARN]: grumpina3443 moved too quickly! 6.253803195071782,6.70259255539446,-4.049622812818583
+[20:47:49] [Server thread/WARN]: grumpina3443 moved wrongly!
+[20:48:17] [Server thread/INFO]: grumpina3443 drowned
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -10.037930682988417,0.0,1.5454174841274977
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -10.435278860845301,0.0,1.5532410494709836
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -10.832709246641343,0.0,1.5564608133959297
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -11.23009199630269,0.0,1.5544317265492822
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -11.627296176019854,0.0,1.5466870195510296
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -12.02419626754363,0.0,1.5329085378826761
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -12.42067689418991,0.0,1.5129037387756483
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -12.8166341834185,0.0,1.4865774502863758
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -13.211978781292373,0.0,1.4539215418903666
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -13.606635391544614,0.0,1.4149944055800177
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -14.000542275056432,0.0,1.3699063408033538
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -14.393651142114322,0.0,1.3188101932546772
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -14.785926641934338,0.0,1.2618929819405764
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -15.177344465271517,0.0,1.1993647444198814
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -15.567890307321477,0.0,1.131452258200511
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -15.957558699637502,0.0,1.0583934486701168
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -16.34635173161405,0.0,0.980432396280591
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.066448878340225,0.0,2.040480580919038
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.683848299423744,0.0,1.9391640934204801
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.29951421454075,0.0,1.8486963546896718
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.913632845207076,0.0,1.7685177165823376
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.526376514450703,0.0,1.6980744745047076
+[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.137903255972333,0.0,1.636818270322543
+[20:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[21:14:42] [Server thread/WARN]: grumpina3443 moved too quickly! 9.934401316084404,-1.1661092609382138,-0.683524822035821
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.39996048212879,0.0,-0.027918407760267883
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.799958962210667,0.0,-0.02899219267412434
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.199957442292543,0.0,-0.030065977587980797
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.59995592237442,0.0,-0.031139762501837254
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.999954402456297,0.0,-0.03221354741569371
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.399952882538173,0.0,-0.03328733232955017
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.79995136262005,0.0,-0.034361117243406625
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.199949842701926,0.0,-0.03543490215726308
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.599948322783803,0.0,-0.03650868707111954
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.99994680286568,0.0,-0.037582471984975996
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.399945282947556,0.0,-0.03865625689883245
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.799943763029432,0.0,-0.03973004181268891
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.199942243111309,0.0,-0.04080382672654537
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.599940723193185,0.0,-0.041877611640401824
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.999939203275062,0.0,-0.04295139655425828
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.39993768335694,0.0,-0.04402518146811474
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.799936163438815,0.0,-0.045098966381971195
+[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.19993464352069,0.0,-0.04617275129582765
+[21:50:07] [Server thread/WARN]: grumpina3443 moved too quickly! 0.399964533552577,1.4641593749554431,-10.075627628533155
+[21:53:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48475, l='world', x=-190.70, y=64.00, z=54.92]
+[21:53:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48475, l='world', x=-190.70, y=64.00, z=54.92]
+[22:11:32] [Server thread/INFO]: kunkkaII lost connection: Disconnected
+[22:11:32] [Server thread/INFO]: kunkkaII left the game
+[22:36:53] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
+[22:36:53] [Server thread/INFO]: grumpina3443 left the game
+[22:36:56] [Server thread/INFO]: Stopping the server
+[22:36:56] [Server thread/INFO]: Stopping server
+[22:36:56] [Server thread/INFO]: Saving players
+[22:36:56] [Server thread/INFO]: Saving worlds
+[22:36:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:36:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:36:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

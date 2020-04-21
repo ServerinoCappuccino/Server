@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-04-21 21:38:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-04-18 11:45:14 +0200"
@@ -564,10 +570,12 @@
       "minecraft:skeleton": "2020-04-18 17:51:28 +0200",
       "minecraft:zombie_pigman": "2020-04-19 22:15:22 +0200",
       "minecraft:ghast": "2020-04-19 21:50:23 +0200",
+      "minecraft:magma_cube": "2020-04-21 21:33:53 +0200",
       "minecraft:spider": "2020-04-18 18:32:58 +0200",
       "minecraft:creeper": "2020-04-18 18:54:58 +0200",
       "minecraft:slime": "2020-04-18 18:53:15 +0200",
       "minecraft:wither_skeleton": "2020-04-19 22:22:18 +0200",
+      "minecraft:enderman": "2020-04-21 21:19:59 +0200",
       "minecraft:zombie": "2020-04-18 11:57:38 +0200",
       "minecraft:drowned": "2020-04-18 20:22:16 +0200",
       "minecraft:zombie_villager": "2020-04-18 18:53:21 +0200"
@@ -1138,6 +1146,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2020-04-21 16:21:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-04-21 22:10:27 +0200"
     },
     "done": true
   },
