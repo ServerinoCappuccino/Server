@@ -1,136 +1,259 @@
-[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:03:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:03:45] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[20:03:45] [Server thread/INFO]: Loading properties
-[20:03:45] [Server thread/INFO]: Default game type: SURVIVAL
-[20:03:45] [Server thread/INFO]: Generating keypair
-[20:03:45] [Server thread/INFO]: Starting Minecraft server on 192.168.196.11:25565
-[20:03:45] [Server thread/INFO]: Using default channel type
-[20:03:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:03:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:03:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:03:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:03:46] [Server thread/INFO]: Preparing level "world"
-[20:03:46] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:03:47] [Server thread/INFO]: Loaded 6 recipes
-[20:03:47] [Server thread/INFO]: Loaded 825 advancements
-[20:03:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:03:49] [Server thread/INFO]: Preparing spawn area: 0%
-[20:03:49] [Server thread/INFO]: Preparing spawn area: 0%
-[20:03:49] [Server thread/INFO]: Preparing spawn area: 0%
-[20:03:50] [Server thread/INFO]: Preparing spawn area: 0%
-[20:03:52] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[20:03:52] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[20:03:52] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[20:03:52] [Server thread/INFO]: Preparing spawn area: 0%
-[20:03:52] [Server thread/INFO]: Time elapsed: 3927 ms
-[20:03:52] [Server thread/INFO]: Done (5.911s)! For help, type "help"
-[20:04:16] [Server thread/INFO]: grumpina3443[/192.168.196.98:50223] logged in with entity id 182 at (-236.75116691772928, 65.0, 59.541908146555855)
-[20:04:16] [Server thread/INFO]: grumpina3443 joined the game
-[20:08:10] [Server thread/INFO]: kunkkaII[/192.168.196.141:54528] logged in with entity id 1289 at (-74.44163565573807, 11.0, 38.46368540953879)
-[20:08:10] [Server thread/INFO]: kunkkaII joined the game
-[20:22:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/4664, l='world', x=-193.47, y=64.00, z=54.20]
-[20:25:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5818, l='world', x=-193.31, y=64.00, z=55.04]
-[20:29:49] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[20:29:49] [Server thread/INFO]: grumpina3443 left the game
-[20:29:59] [Server thread/INFO]: grumpina3443[/192.168.196.98:50492] logged in with entity id 8846 at (-932.4198810331818, 62.474654278907884, 30.379284586458624)
-[20:29:59] [Server thread/INFO]: grumpina3443 joined the game
-[20:31:02] [Server thread/INFO]: grumpina3443 drowned
-[20:31:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@44ed5c76[id=1ca5f519-2b4f-372d-b6f9-f35657b27dc3,name=grumpina3443,properties={},legacy=false] (/192.168.196.98:50497) lost connection: Disconnected
-[20:31:11] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[20:31:11] [Server thread/INFO]: grumpina3443 left the game
-[20:31:17] [Server thread/INFO]: grumpina3443[/192.168.196.98:50500] logged in with entity id 9761 at (-968.8235688878742, 59.60951229130564, 13.50509131982301)
-[20:31:17] [Server thread/INFO]: grumpina3443 joined the game
-[20:33:39] [Server thread/WARN]: grumpina3443 moved too quickly! 9.143346722819729,0.04519516503695087,-4.210263515873267
-[20:34:41] [Server thread/WARN]: grumpina3443 moved wrongly!
-[20:40:25] [Server thread/WARN]: kunkkaII moved too quickly! 0.06073627391580061,0.0,-10.100564573859828
-[20:40:33] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[20:40:33] [Server thread/INFO]: grumpina3443 left the game
-[20:40:45] [Server thread/INFO]: grumpina3443[/192.168.196.98:50593] logged in with entity id 15964 at (-825.3000000119209, 65.0, 13.57147536572432)
-[20:40:45] [Server thread/INFO]: grumpina3443 joined the game
-[20:46:53] [Server thread/WARN]: grumpina3443 moved too quickly! 6.253803195071782,6.70259255539446,-4.049622812818583
-[20:47:49] [Server thread/WARN]: grumpina3443 moved wrongly!
-[20:48:17] [Server thread/INFO]: grumpina3443 drowned
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -10.037930682988417,0.0,1.5454174841274977
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -10.435278860845301,0.0,1.5532410494709836
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -10.832709246641343,0.0,1.5564608133959297
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -11.23009199630269,0.0,1.5544317265492822
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -11.627296176019854,0.0,1.5466870195510296
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -12.02419626754363,0.0,1.5329085378826761
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -12.42067689418991,0.0,1.5129037387756483
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -12.8166341834185,0.0,1.4865774502863758
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -13.211978781292373,0.0,1.4539215418903666
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -13.606635391544614,0.0,1.4149944055800177
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -14.000542275056432,0.0,1.3699063408033538
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -14.393651142114322,0.0,1.3188101932546772
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -14.785926641934338,0.0,1.2618929819405764
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -15.177344465271517,0.0,1.1993647444198814
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -15.567890307321477,0.0,1.131452258200511
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -15.957558699637502,0.0,1.0583934486701168
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! -16.34635173161405,0.0,0.980432396280591
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:03] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.447116435260114,0.0,2.153199334618563
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.066448878340225,0.0,2.040480580919038
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.683848299423744,0.0,1.9391640934204801
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.29951421454075,0.0,1.8486963546896718
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.913632845207076,0.0,1.7685177165823376
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.526376514450703,0.0,1.6980744745047076
-[20:52:04] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.137903255972333,0.0,1.636818270322543
-[20:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[21:14:42] [Server thread/WARN]: grumpina3443 moved too quickly! 9.934401316084404,-1.1661092609382138,-0.683524822035821
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.39996048212879,0.0,-0.027918407760267883
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.799958962210667,0.0,-0.02899219267412434
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.199957442292543,0.0,-0.030065977587980797
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.59995592237442,0.0,-0.031139762501837254
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.999954402456297,0.0,-0.03221354741569371
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.399952882538173,0.0,-0.03328733232955017
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.79995136262005,0.0,-0.034361117243406625
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.199949842701926,0.0,-0.03543490215726308
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.599948322783803,0.0,-0.03650868707111954
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.99994680286568,0.0,-0.037582471984975996
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.399945282947556,0.0,-0.03865625689883245
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.799943763029432,0.0,-0.03973004181268891
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.199942243111309,0.0,-0.04080382672654537
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.599940723193185,0.0,-0.041877611640401824
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.999939203275062,0.0,-0.04295139655425828
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.39993768335694,0.0,-0.04402518146811474
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.799936163438815,0.0,-0.045098966381971195
-[21:28:32] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.19993464352069,0.0,-0.04617275129582765
-[21:50:07] [Server thread/WARN]: grumpina3443 moved too quickly! 0.399964533552577,1.4641593749554431,-10.075627628533155
-[21:53:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48475, l='world', x=-190.70, y=64.00, z=54.92]
-[21:53:42] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48475, l='world', x=-190.70, y=64.00, z=54.92]
-[22:11:32] [Server thread/INFO]: kunkkaII lost connection: Disconnected
-[22:11:32] [Server thread/INFO]: kunkkaII left the game
-[22:36:53] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
-[22:36:53] [Server thread/INFO]: grumpina3443 left the game
-[22:36:56] [Server thread/INFO]: Stopping the server
-[22:36:56] [Server thread/INFO]: Stopping server
-[22:36:56] [Server thread/INFO]: Saving players
-[22:36:56] [Server thread/INFO]: Saving worlds
-[22:36:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:36:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:36:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:36:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:07:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:07:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:07:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:07:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:07:46] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[14:07:46] [Server thread/INFO]: Loading properties
+[14:07:46] [Server thread/INFO]: Default game type: SURVIVAL
+[14:07:46] [Server thread/INFO]: Generating keypair
+[14:07:46] [Server thread/INFO]: Starting Minecraft server on 192.168.196.11:25565
+[14:07:46] [Server thread/INFO]: Using default channel type
+[14:07:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:07:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:07:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:07:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:07:47] [Server thread/INFO]: Preparing level "world"
+[14:07:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:07:48] [Server thread/INFO]: Loaded 6 recipes
+[14:07:48] [Server thread/INFO]: Loaded 825 advancements
+[14:07:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:07:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:07:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:07:50] [Server thread/INFO]: Preparing spawn area: 0%
+[14:07:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[14:07:52] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[14:07:52] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[14:07:52] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[14:07:52] [Server thread/INFO]: Time elapsed: 3358 ms
+[14:07:52] [Server thread/INFO]: Done (4.821s)! For help, type "help"
+[14:09:16] [Server thread/INFO]: grumpina3443[/192.168.196.98:53927] logged in with entity id 216 at (-215.37543789810732, 67.0, 32.80151894446759)
+[14:09:16] [Server thread/INFO]: grumpina3443 joined the game
+[14:09:32] [Server thread/INFO]: grumpina3443 lost connection: Timed out
+[14:09:32] [Server thread/INFO]: grumpina3443 left the game
+[14:09:39] [Server thread/INFO]: grumpina3443[/192.168.196.98:53931] logged in with entity id 229 at (-215.37543789810732, 67.0, 32.80151894446759)
+[14:09:39] [Server thread/INFO]: grumpina3443 joined the game
+[14:18:52] [Server thread/INFO]: Unknown command
+[14:18:52] [Server thread/INFO]: <--[HERE]
+[14:25:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2780, l='world', x=-190.62, y=64.00, z=56.33]
+[14:26:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2963, l='world', x=-191.61, y=64.00, z=56.80]
+[14:31:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-168, y=66, z=63} fk{x=-169, y=67, z=65}
+[14:31:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-168, y=66, z=63} fk{x=-169, y=67, z=65}
+[14:37:54] [Server thread/INFO]: Steelboot[/192.168.196.11:53481] logged in with entity id 4603 at (-1511.6918187980673, 85.0, 342.30000001192093)
+[14:37:54] [Server thread/INFO]: Steelboot joined the game
+[14:39:26] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5287, l='world', x=-190.20, y=64.00, z=54.56]
+[14:39:31] [Server thread/INFO]: Steelboot has made the advancement [Hot Stuff]
+[14:48:13] [Server thread/INFO]: kunkkaII[/192.168.196.141:50571] logged in with entity id 7906 at (-239.19209772637763, 71.0, 53.10403432024778)
+[14:48:13] [Server thread/INFO]: kunkkaII joined the game
+[15:08:03] [Server thread/INFO]: Steelboot has made the advancement [Eye Spy]
+[15:11:37] [Server thread/WARN]: grumpina3443 moved too quickly! 2.0425437922326637,0.0,-9.844739749123939
+[15:28:44] [Server thread/INFO]: Steelboot lost connection: Disconnected
+[15:28:44] [Server thread/INFO]: Steelboot left the game
+[15:54:26] [Server thread/INFO]: Enrahedron[/192.168.196.144:51296] logged in with entity id 25067 at (-236.98424411309628, 65.0, 60.212500639182636)
+[15:54:26] [Server thread/INFO]: Enrahedron joined the game
+[15:59:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/26083, l='world', x=-193.04, y=64.00, z=55.86]
+[15:59:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/26083, l='world', x=-193.04, y=64.00, z=55.86]
+[15:59:10] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/26083, l='world', x=-193.04, y=64.00, z=55.86]
+[16:07:37] [Server thread/INFO]: Enrahedron lost connection: Disconnected
+[16:07:37] [Server thread/INFO]: Enrahedron left the game
+[16:27:09] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
+[16:27:09] [Server thread/INFO]: grumpina3443 left the game
+[16:31:39] [Server thread/INFO]: kunkkaII lost connection: Disconnected
+[16:31:39] [Server thread/INFO]: kunkkaII left the game
+[16:52:33] [Server thread/INFO]: grumpina3443[/192.168.196.98:55366] logged in with entity id 31269 at (-236.19170494776492, 65.0, 59.72671020267279)
+[16:52:33] [Server thread/INFO]: grumpina3443 joined the game
+[17:06:39] [Server thread/WARN]: grumpina3443 moved too quickly! 7.389857166710442,-1.0,6.68012476838382
+[17:08:16] [Server thread/WARN]: grumpina3443 moved too quickly! 6.836606404532887,-3.5,6.744077210525404
+[17:09:09] [Server thread/WARN]: grumpina3443 moved too quickly! 10.139288198808089,0.0,1.0970540332979937
+[17:20:29] [Server thread/INFO]: Steelboot[/192.168.196.11:54377] logged in with entity id 36605 at (-1467.699999988079, 24.0, 486.30000001192093)
+[17:20:29] [Server thread/INFO]: Steelboot joined the game
+[17:20:47] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/36801, l='world', x=-193.44, y=64.00, z=54.20]
+[17:21:10] [Server thread/INFO]: Steelboot lost connection: Disconnected
+[17:21:10] [Server thread/INFO]: Steelboot left the game
+[17:22:33] [Server thread/INFO]: Steelboot[/192.168.196.11:54494] logged in with entity id 36960 at (-1467.699999988079, 24.0, 486.30000001192093)
+[17:22:33] [Server thread/INFO]: Steelboot joined the game
+[17:23:08] [Server thread/INFO]: Steelboot has made the advancement [Diamonds!]
+[17:31:11] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/40240, l='world', x=-193.51, y=64.00, z=54.82]
+[17:53:32] [Server thread/INFO]: <grumpina3443> salta SU! :D
+[17:53:43] [Server thread/INFO]: <Steelboot> FEDEEE
+[17:53:46] [Server thread/INFO]: <grumpina3443> premi destro
+[17:53:46] [Server thread/INFO]: <Steelboot> sec
+[17:53:52] [Server thread/INFO]: <grumpina3443> e sali sulla barca
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.221729988305128,0.0,-1.9173360711536134
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.614873451191102,0.0,-1.9910797635208155
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.00801691411641,0.0,-2.064823455829412
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.401160377077076,0.0,-2.138567148085258
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.794426525055087,0.0,-2.211623755201572
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.188003186063497,0.0,-2.2827503277584356
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.582001950157405,0.0,-2.3509558043628545
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.97647908134195,0.0,-2.4154592147975222
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.371450437910198,0.0,-2.475666482988686
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.766904017852994,0.0,-2.5311375109364462
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.16280907415819,0.0,-2.581563800233539
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.559123096684402,0.0,-2.6267480427317764
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.955796970809274,0.0,-2.666581735347904
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.352778688890794,0.0,-2.7010287534701547
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.750016090810277,0.0,-2.7301143272394484
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.147458641282242,0.0,-2.7539112444892453
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.545058999631124,0.0,-2.7725350649402003
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.942773344805346,0.0,-2.786128319756017
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.296147172186352,0.0,-0.8927036688271528
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.693601786770614,0.0,-0.8697073067716588
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.090950638075128,0.0,-0.8436577556122415
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.48827815258528,0.0,-0.8154385515405238
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.885713671468807,0.0,-0.7864794870623086
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.283366397062196,0.0,-0.758648992400083
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.681253530522326,0.0,-0.7334481501629284
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.079330817859955,0.0,-0.7120672125429337
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.477515392207124,0.0,-0.6954302896193667
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.875702181883526,0.0,-0.6842403282388432
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.273776926769642,0.0,-0.6790048864624509
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.671624093245782,0.0,-0.6800749445399106
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.06913314827159,0.0,-0.6876685608925754
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.46620210499293,0.0,-0.7018960316775633
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.86273999108198,0.0,-0.7227787462398396
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.258511341452277,0.0,-0.7509423237509623
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.653106707738857,0.0,-0.7874855666240705
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.045902996358564,0.0,-0.8338536891870376
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.436022143852142,0.0,-0.8917174835096944
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.822293511185308,0.0,-0.962860124380029
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.2036040713474,0.0,-1.0484889023587698
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.578948378490054,0.0,-1.1493334607209817
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.94744872226795,0.0,-1.2657469156662273
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.308371240185807,0.0,-1.3977795661199934
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.661122820440028,0.0,-1.5452515692718407
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 20.005250644644548,0.0,-1.7078042446089512
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 20.340430239060424,0.0,-1.8849489521061287
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 20.66645550487658,0.0,-2.076103198018302
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 20.983789295240854,0.0,-2.28020852763467
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 21.29344807078519,0.0,-2.495859455649793
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 21.59633392605042,0.0,-2.7217996470175763
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 21.893243088706527,0.0,-2.95690949414103
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 22.184882714438913,0.0,-3.2001879290721718
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 22.471876834405407,0.0,-3.450743020785353
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 22.754774751510354,0.0,-3.707781169515897
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 23.03406462643295,0.0,-3.9705926468211032
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.411582401949204,0.0,-3.3260944127922585
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.68489750443814,0.0,-3.5986248260651905
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.95575251772766,0.0,-3.8752296850020116
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.224444477960219,0.0,-4.1554609690772395
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.491234658472308,0.0,-4.438920161145006
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.756355159835607,0.0,-4.725250929677884
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.02000884876486,0.0,-5.014137324192177
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.282375287813238,0.0,-5.305297352956757
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.543613065789145,0.0,-5.5984795927050754
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.803861906307134,0.0,-5.893460146688881
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.06324754385321,0.0,-6.190037483625758
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.321877160370832,0.0,-6.488035030990886
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.579844231923744,0.0,-6.787296276328277
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.837232877653832,0.0,-7.087680349118102
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.09411879547349,0.0,-7.389060454719981
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.35056415862573,0.0,-7.6913273096620856
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.606627892083907,0.0,-7.994380131795822
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.862360051815813,0.0,-8.298130636765848
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.117802709821717,0.0,-8.60250178450525
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.372993730900816,0.0,-8.907424235230337
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.627967189646142,0.0,-9.212835585000107
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.88275375319074,0.0,-9.518679664681201
+[17:55:09] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.13737804917173,0.0,-9.824908347218866
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 7.620319091751867,0.0,-7.077472837182029
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 7.913407093536421,0.0,-7.349684750747713
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 8.206495069182552,0.0,-7.6218966953941845
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 8.499583021304034,0.0,-7.894108668013303
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 8.792670952253388,0.0,-8.16632066580786
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 9.08575886414792,0.0,-8.438532686260316
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 9.378846758893019,0.0,-8.710744727104839
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 9.671934638203652,0.0,-8.982956786302225
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 9.965022503623231,0.0,-9.255168862017229
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.258110356540897,0.0,-9.527380952598037
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.551198198206862,0.0,-9.799593056558138
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 10.844286029746172,0.0,-10.07180517255955
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.137373852171663,0.0,-10.34401729939816
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.430461666394649,0.0,-10.616229435990249
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 11.72354947323538,0.0,-10.88844158136044
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.016637273432025,0.0,-11.160653734630955
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.309725067649083,0.0,-11.43286589501173
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.602812856484434,0.0,-11.705078061791767
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 12.89590064047627,0.0,-11.977290234331122
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.188988420109013,0.0,-12.249502412053857
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.482076195818536,0.0,-12.521714594441676
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 13.77516396799706,0.0,-12.793926781028006
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.068251736997809,0.0,-13.066138971393059
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.361339503138538,0.0,-13.33835116515894
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.65442726670517,0.0,-13.610563361985555
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 14.947515027955205,0.0,-13.88277556156686
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.240602787120338,0.0,-14.154987763627332
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.533690544408955,0.0,-14.42719996791908
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 15.826778300008755,0.0,-14.699412174218992
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.11986605408856,0.0,-14.97162438232624
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.412953806800488,0.0,-15.24383659206012
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.706041558281186,0.0,-15.516048803257945
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 16.99912930865389,0.0,-15.788261015773287
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.292217058029337,0.0,-16.06047322947444
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.585304806507338,0.0,-16.332685444242827
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 17.878392554177594,0.0,-16.604897659971698
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.171480301120823,0.0,-16.877109876564987
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.464568047409784,0.0,-17.14932209393629
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 18.757655793109848,0.0,-17.421534312007793
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.050743538279903,0.0,-17.69374653070946
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.343831282973042,0.0,-17.965958749978313
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.6369190272369,0.0,-18.23817096975762
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.93000677111445,0.0,-18.510383189996276
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 20.22309451464423,0.0,-18.782595410648412
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 20.516182257861033,0.0,-19.054807631672645
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 20.809270000796232,0.0,-19.3270198530318
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 21.10235774347791,0.0,-19.599232074692395
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 21.395445485931532,0.0,-19.871444296624247
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 21.688533228179836,0.0,-20.143656518800242
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 21.981620970243284,0.0,-20.415868741195936
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 22.27470871214041,0.0,-20.68808096378939
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 22.567796453887922,0.0,-20.96029318656082
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 22.860884195500716,0.0,-21.232505409492433
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 23.153971936992207,0.0,-21.50471763256826
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 23.44705967837467,0.0,-21.7769298557738
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 23.74014741965891,0.0,-22.0491420790961
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 24.0332351608547,0.0,-22.321354302523503
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 24.326322901971025,0.0,-22.593566526045493
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 24.619410643015726,0.0,-22.865778749652634
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 24.912498383995967,0.0,-23.1379909733364
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 25.205586124918227,0.0,-23.410203197089118
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 25.498673865788305,0.0,-23.682415420903908
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 25.79176160661143,0.0,-23.95462764477452
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 26.084849347392264,0.0,-24.22683986869538
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 26.377937088135013,0.0,-24.499052092661486
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 26.671024828843542,0.0,-24.77126431666835
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.636881508596616,0.0,-18.23821558256128
+[17:55:23] [Server thread/WARN]: Boat (vehicle of grumpina3443) moved too quickly! 19.929969249246597,0.0,-18.510427806637722
+[17:57:04] [Server thread/WARN]: Steelboot moved wrongly!
+[18:01:39] [Server thread/WARN]: grumpina3443 moved too quickly! 9.927727229873625,-1.6767592750642422,0.5707987489315727
+[18:12:14] [Server thread/INFO]: Steelboot lost connection: Disconnected
+[18:12:14] [Server thread/INFO]: Steelboot left the game
+[18:25:56] [Server thread/INFO]: Enrahedron[/192.168.196.144:63139] logged in with entity id 57053 at (-238.70000002533197, 71.0625002, 61.299999974668026)
+[18:25:56] [Server thread/INFO]: Enrahedron joined the game
+[18:27:23] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
+[18:27:23] [Server thread/INFO]: grumpina3443 left the game
+[18:27:31] [Server thread/INFO]: grumpina3443[/192.168.196.98:56281] logged in with entity id 57364 at (-232.44947251561035, 64.0, 57.805411770570494)
+[18:27:31] [Server thread/INFO]: grumpina3443 joined the game
+[18:30:35] [Server thread/INFO]: kunkkaII[/192.168.196.141:51162] logged in with entity id 57909 at (-251.30654389219904, 64.0, 27.43972144784818)
+[18:30:35] [Server thread/INFO]: kunkkaII joined the game
+[18:31:08] [Server thread/WARN]: grumpina3443 moved too quickly! -0.48611689199572083,0.0,-10.056920151180748
+[18:34:01] [Server thread/INFO]: grumpina3443 has made the advancement [What a Deal!]
+[18:45:39] [Server thread/INFO]: <Enrahedron> shleep?
+[18:46:44] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
+[18:46:44] [Server thread/INFO]: grumpina3443 left the game
+[19:00:20] [Server thread/INFO]: Enrahedron lost connection: Disconnected
+[19:00:20] [Server thread/INFO]: Enrahedron left the game
+[19:00:32] [Server thread/INFO]: kunkkaII lost connection: Disconnected
+[19:00:32] [Server thread/INFO]: kunkkaII left the game
+[19:15:21] [Server thread/INFO]: Stopping the server
+[19:15:22] [Server thread/INFO]: Stopping server
+[19:15:22] [Server thread/INFO]: Saving players
+[19:15:22] [Server thread/INFO]: Saving worlds
+[19:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:15:22] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:15:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
