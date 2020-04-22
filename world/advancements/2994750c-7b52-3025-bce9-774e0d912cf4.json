@@ -276,6 +276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-04-22 20:48:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-19 22:57:09 +0200"
@@ -285,6 +291,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-04-18 11:49:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-22 22:16:02 +0200"
     },
     "done": true
   },
@@ -651,6 +663,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-04-19 22:24:30 +0200",
+      "minecraft:pillager": "2020-04-22 22:17:30 +0200",
       "minecraft:skeleton": "2020-04-18 17:51:28 +0200",
       "minecraft:zombie_pigman": "2020-04-19 22:15:22 +0200",
       "minecraft:ghast": "2020-04-19 21:50:23 +0200",
@@ -765,6 +778,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-04-18 18:16:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-22 22:19:17 +0200"
     },
     "done": true
   },
@@ -1194,6 +1213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-04-22 22:16:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2020-04-18 11:57:38 +0200"
@@ -1241,6 +1266,7 @@
       "minecraft:forest": "2020-04-18 11:41:32 +0200",
       "minecraft:mountains": "2020-04-21 17:47:18 +0200",
       "minecraft:taiga": "2020-04-20 22:36:40 +0200",
+      "minecraft:desert": "2020-04-22 22:12:41 +0200",
       "minecraft:birch_forest": "2020-04-20 22:34:08 +0200",
       "minecraft:warm_ocean": "2020-04-21 15:43:05 +0200",
       "minecraft:deep_lukewarm_ocean": "2020-04-20 15:32:15 +0200",
@@ -1250,7 +1276,9 @@
       "minecraft:river": "2020-04-18 11:41:22 +0200",
       "minecraft:lukewarm_ocean": "2020-04-20 15:32:07 +0200",
       "minecraft:birch_forest_hills": "2020-04-20 22:35:02 +0200",
+      "minecraft:wooded_mountains": "2020-04-22 22:10:12 +0200",
       "minecraft:wooded_hills": "2020-04-18 17:44:20 +0200",
+      "minecraft:stone_shore": "2020-04-22 22:09:57 +0200",
       "minecraft:swamp": "2020-04-18 18:10:34 +0200",
       "minecraft:savanna": "2020-04-21 15:45:36 +0200",
       "minecraft:plains": "2020-04-20 22:38:19 +0200"
@@ -1804,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-04-22 22:16:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_the_recipe": "2020-04-18 12:09:24 +0200"
@@ -2258,6 +2292,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2020-04-19 21:34:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-04-22 22:16:02 +0200"
     },
     "done": true
   },
