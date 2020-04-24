@@ -504,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-24 14:51:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-04-18 18:47:26 +0200"
@@ -861,6 +867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-04-24 14:28:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-04-18 11:45:00 +0200"
@@ -888,6 +900,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-04-21 17:44:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-04-24 14:28:37 +0200"
     },
     "done": true
   },
@@ -984,6 +1002,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-04-19 11:45:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-04-24 14:03:57 +0200"
     },
     "done": true
   },
@@ -1086,6 +1110,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-04-20 22:26:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-04-24 14:03:57 +0200"
     },
     "done": true
   },
@@ -1197,6 +1227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-04-24 14:28:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-04-18 11:45:00 +0200"
@@ -1290,6 +1326,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-04-23 22:04:23 +0200",
+      "minecraft:jungle_edge": "2020-04-24 14:03:35 +0200",
       "minecraft:snowy_mountains": "2020-04-23 21:51:14 +0200",
       "minecraft:forest": "2020-04-18 11:41:32 +0200",
       "minecraft:mountains": "2020-04-21 17:47:18 +0200",
@@ -1298,7 +1335,9 @@
       "minecraft:snowy_tundra": "2020-04-23 21:33:52 +0200",
       "minecraft:desert": "2020-04-22 22:12:41 +0200",
       "minecraft:frozen_river": "2020-04-23 21:38:56 +0200",
+      "minecraft:jungle": "2020-04-24 14:03:47 +0200",
       "minecraft:birch_forest": "2020-04-20 22:34:08 +0200",
+      "minecraft:jungle_hills": "2020-04-24 14:06:53 +0200",
       "minecraft:snowy_beach": "2020-04-23 22:04:00 +0200",
       "minecraft:warm_ocean": "2020-04-21 15:43:05 +0200",
       "minecraft:deep_lukewarm_ocean": "2020-04-20 15:32:15 +0200",
@@ -1352,6 +1391,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-18 11:45:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-24 14:51:38 +0200"
     },
     "done": true
   },
@@ -1505,9 +1550,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-04-24 14:05:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-04-21 15:25:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-04-24 14:04:47 +0200"
     },
     "done": true
   },
@@ -1569,6 +1626,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-18 11:45:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-04-24 14:04:47 +0200"
     },
     "done": true
   },
@@ -1725,6 +1788,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-19 20:14:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2020-04-24 15:36:50 +0200"
     },
     "done": true
   },
@@ -1926,6 +1995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-24 14:51:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2020-04-18 11:47:12 +0200"
@@ -2049,7 +2124,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2020-04-18 18:32:03 +0200",
-      "minecraft:chicken": "2020-04-19 16:52:57 +0200"
+      "minecraft:chicken": "2020-04-19 16:52:57 +0200",
+      "minecraft:horse": "2020-04-24 13:38:04 +0200"
     },
     "done": false
   },
@@ -2134,6 +2210,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-04-18 11:45:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-24 14:51:38 +0200"
     },
     "done": true
   },
@@ -2503,6 +2585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-24 14:51:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-04-18 18:11:14 +0200"
@@ -2560,6 +2648,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-04-19 22:57:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-04-24 14:05:23 +0200"
     },
     "done": true
   },
@@ -2885,6 +2979,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-21 16:26:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-04-24 14:51:38 +0200"
     },
     "done": true
   },

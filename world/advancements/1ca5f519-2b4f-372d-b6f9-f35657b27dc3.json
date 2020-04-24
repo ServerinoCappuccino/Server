@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-24 14:41:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-18 11:17:36 +0200"
@@ -920,6 +926,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-04-24 14:00:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2020-04-18 14:16:15 +0200"
@@ -1354,11 +1366,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2020-04-24 14:21:38 +0200",
       "minecraft:forest": "2020-04-18 11:00:54 +0200",
       "minecraft:mountains": "2020-04-19 19:32:10 +0200",
       "minecraft:desert_hills": "2020-04-20 21:53:28 +0200",
       "minecraft:desert": "2020-04-19 19:34:47 +0200",
+      "minecraft:jungle": "2020-04-24 14:21:41 +0200",
       "minecraft:birch_forest": "2020-04-21 20:53:34 +0200",
+      "minecraft:jungle_hills": "2020-04-24 14:22:57 +0200",
       "minecraft:warm_ocean": "2020-04-20 21:56:51 +0200",
       "minecraft:deep_lukewarm_ocean": "2020-04-20 22:14:35 +0200",
       "minecraft:badlands": "2020-04-21 21:08:06 +0200",
@@ -1370,6 +1385,7 @@
       "minecraft:birch_forest_hills": "2020-04-18 14:14:26 +0200",
       "minecraft:wooded_mountains": "2020-04-19 19:33:01 +0200",
       "minecraft:wooded_hills": "2020-04-19 08:58:14 +0200",
+      "minecraft:stone_shore": "2020-04-24 14:21:25 +0200",
       "minecraft:swamp": "2020-04-18 14:13:11 +0200",
       "minecraft:savanna": "2020-04-20 21:34:24 +0200",
       "minecraft:plains": "2020-04-19 20:04:18 +0200"
@@ -1592,9 +1608,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-04-24 14:21:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-04-18 11:37:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-04-24 14:42:00 +0200"
     },
     "done": true
   },
@@ -1674,6 +1702,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-18 11:38:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-04-24 14:42:00 +0200"
     },
     "done": true
   },
@@ -2778,6 +2812,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-04-21 21:46:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-04-24 14:21:57 +0200"
     },
     "done": true
   },
