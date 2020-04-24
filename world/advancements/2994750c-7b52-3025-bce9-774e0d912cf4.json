@@ -330,6 +330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-04-23 20:23:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-04-18 11:45:22 +0200"
@@ -564,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-04-23 20:23:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-18 11:45:37 +0200"
@@ -673,6 +685,8 @@
       "minecraft:slime": "2020-04-18 18:53:15 +0200",
       "minecraft:wither_skeleton": "2020-04-19 22:22:18 +0200",
       "minecraft:enderman": "2020-04-21 21:19:59 +0200",
+      "minecraft:silverfish": "2020-04-23 22:16:09 +0200",
+      "minecraft:stray": "2020-04-23 21:48:47 +0200",
       "minecraft:zombie": "2020-04-18 11:57:38 +0200",
       "minecraft:drowned": "2020-04-18 20:22:16 +0200",
       "minecraft:zombie_villager": "2020-04-18 18:53:21 +0200"
@@ -937,6 +951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-04-23 20:23:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-22 16:09:11 +0200"
@@ -1024,6 +1044,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2020-04-18 11:45:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-04-23 20:10:14 +0200"
     },
     "done": true
   },
@@ -1263,11 +1289,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-04-23 22:04:23 +0200",
+      "minecraft:snowy_mountains": "2020-04-23 21:51:14 +0200",
       "minecraft:forest": "2020-04-18 11:41:32 +0200",
       "minecraft:mountains": "2020-04-21 17:47:18 +0200",
       "minecraft:taiga": "2020-04-20 22:36:40 +0200",
+      "minecraft:desert_hills": "2020-04-23 20:08:35 +0200",
+      "minecraft:snowy_tundra": "2020-04-23 21:33:52 +0200",
       "minecraft:desert": "2020-04-22 22:12:41 +0200",
+      "minecraft:frozen_river": "2020-04-23 21:38:56 +0200",
       "minecraft:birch_forest": "2020-04-20 22:34:08 +0200",
+      "minecraft:snowy_beach": "2020-04-23 22:04:00 +0200",
       "minecraft:warm_ocean": "2020-04-21 15:43:05 +0200",
       "minecraft:deep_lukewarm_ocean": "2020-04-20 15:32:15 +0200",
       "minecraft:savanna_plateau": "2020-04-21 15:47:45 +0200",
@@ -1275,11 +1307,13 @@
       "minecraft:dark_forest": "2020-04-18 18:22:41 +0200",
       "minecraft:river": "2020-04-18 11:41:22 +0200",
       "minecraft:lukewarm_ocean": "2020-04-20 15:32:07 +0200",
+      "minecraft:snowy_taiga": "2020-04-23 21:39:41 +0200",
       "minecraft:birch_forest_hills": "2020-04-20 22:35:02 +0200",
       "minecraft:wooded_mountains": "2020-04-22 22:10:12 +0200",
       "minecraft:wooded_hills": "2020-04-18 17:44:20 +0200",
       "minecraft:stone_shore": "2020-04-22 22:09:57 +0200",
       "minecraft:swamp": "2020-04-18 18:10:34 +0200",
+      "minecraft:snowy_taiga_hills": "2020-04-23 21:52:41 +0200",
       "minecraft:savanna": "2020-04-21 15:45:36 +0200",
       "minecraft:plains": "2020-04-20 22:38:19 +0200"
     },
@@ -2283,6 +2317,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-04-23 22:26:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-04-18 11:47:12 +0200"
@@ -2583,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-04-23 22:17:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-04-18 21:08:24 +0200"
@@ -2755,6 +2801,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-04-19 22:24:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-04-23 20:23:11 +0200"
     },
     "done": true
   },
@@ -3010,6 +3062,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/red.png": "2020-04-23 20:23:58 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-04-21 16:19:35 +0200"
@@ -3031,6 +3089,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-04-19 21:11:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-04-23 22:26:56 +0200"
     },
     "done": true
   },
