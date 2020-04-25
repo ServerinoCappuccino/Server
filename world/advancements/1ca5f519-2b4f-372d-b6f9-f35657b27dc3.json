@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-04-25 21:43:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wood_slab": "2020-04-18 11:09:48 +0200"
@@ -1657,6 +1663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-04-25 21:43:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-04-18 17:42:11 +0200"
@@ -2062,6 +2074,7 @@
       "cookie": "2020-04-25 14:28:18 +0200",
       "melon_slice": "2020-04-19 16:28:50 +0200",
       "beetroot": "2020-04-20 10:18:14 +0200",
+      "cod": "2020-04-25 22:25:00 +0200",
       "carrot": "2020-04-19 09:49:58 +0200"
     },
     "done": false
