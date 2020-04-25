@@ -1,275 +1,54 @@
-[11:10:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:10:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:10:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:44] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[11:10:44] [Server thread/INFO]: Loading properties
-[11:10:44] [Server thread/INFO]: Default game type: SURVIVAL
-[11:10:44] [Server thread/INFO]: Generating keypair
-[11:10:44] [Server thread/INFO]: Starting Minecraft server on 192.168.196.11:25565
-[11:10:44] [Server thread/INFO]: Using default channel type
-[11:10:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:10:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:10:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:10:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:10:45] [Server thread/INFO]: Preparing level "world"
-[11:10:45] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:10:45] [Server thread/INFO]: Loaded 6 recipes
-[11:10:46] [Server thread/INFO]: Loaded 825 advancements
-[11:10:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:10:47] [Server thread/INFO]: Preparing spawn area: 0%
-[11:10:47] [Server thread/INFO]: Preparing spawn area: 0%
-[11:10:47] [Server thread/INFO]: Preparing spawn area: 0%
-[11:10:49] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:10:49] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[11:10:49] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[11:10:49] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[11:10:50] [Server thread/INFO]: Time elapsed: 3462 ms
-[11:10:50] [Server thread/INFO]: Done (4.882s)! For help, type "help"
-[11:14:14] [Server thread/INFO]: grumpina3443[/192.168.196.98:64245] logged in with entity id 232 at (-237.22667372133733, 71.0625, 61.17763199988822)
-[11:14:14] [Server thread/INFO]: grumpina3443 joined the game
-[11:16:58] [Server thread/WARN]: grumpina3443 moved too quickly! -7.369922002404309,-1.1142592750642422,-6.782255029599515
-[11:30:02] [Server thread/WARN]: grumpina3443 moved too quickly! 4.349536847931006,1.0,9.053085936639416
-[12:03:54] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
-[12:03:54] [Server thread/INFO]: grumpina3443 left the game
-[12:11:37] [Server thread/INFO]: kunkkaII[/192.168.196.141:49453] logged in with entity id 9335 at (-213.48134760335725, 76.0625, 28.68611721189412)
-[12:11:37] [Server thread/INFO]: kunkkaII joined the game
-[12:25:43] [Server thread/INFO]: kunkkaII lost connection: Disconnected
-[12:25:43] [Server thread/INFO]: kunkkaII left the game
-[13:17:01] [Server thread/INFO]: kunkkaII[/192.168.196.141:49890] logged in with entity id 11446 at (-215.35304356194587, 67.0, 31.964992000397732)
-[13:17:01] [Server thread/INFO]: kunkkaII joined the game
-[13:17:59] [Server thread/INFO]: Steelboot[/192.168.196.11:51782] logged in with entity id 11624 at (-215.3070841980777, 67.0, 30.39693202800856)
-[13:17:59] [Server thread/INFO]: Steelboot joined the game
-[13:18:15] [Server thread/INFO]: grumpina3443[/192.168.196.98:64989] logged in with entity id 11647 at (-237.70000002533197, 71.0625002, 62.299999974668026)
-[13:18:15] [Server thread/INFO]: grumpina3443 joined the game
-[13:19:17] [Server thread/INFO]: Steelboot has made the advancement [Cover Me With Diamonds]
-[13:30:41] [Server thread/INFO]: /advancement (grant|revoke)
-[13:30:41] [Server thread/INFO]: /ban <targets> [<reason>]
-[13:30:41] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[13:30:41] [Server thread/INFO]: /banlist [ips|players]
-[13:30:41] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[13:30:41] [Server thread/INFO]: /clear [<targets>]
-[13:30:41] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[13:30:41] [Server thread/INFO]: /data (get|merge|modify|remove)
-[13:30:41] [Server thread/INFO]: /datapack (disable|enable|list)
-[13:30:41] [Server thread/INFO]: /debug (report|start|stop)
-[13:30:41] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[13:30:41] [Server thread/INFO]: /deop <targets>
-[13:30:41] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[13:30:41] [Server thread/INFO]: /effect (clear|give)
-[13:30:41] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[13:30:41] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[13:30:41] [Server thread/INFO]: /experience (add|query|set)
-[13:30:41] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[13:30:41] [Server thread/INFO]: /forceload (add|query|remove)
-[13:30:41] [Server thread/INFO]: /function <name>
-[13:30:41] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[13:30:41] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[13:30:41] [Server thread/INFO]: /give <targets> <item> [<count>]
-[13:30:41] [Server thread/INFO]: /help [<command>]
-[13:30:41] [Server thread/INFO]: /kick <targets> [<reason>]
-[13:30:41] [Server thread/INFO]: /kill [<targets>]
-[13:30:41] [Server thread/INFO]: /list [uuids]
-[13:30:41] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
-[13:30:41] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[13:30:41] [Server thread/INFO]: /me <action>
-[13:30:41] [Server thread/INFO]: /msg <targets> <message>
-[13:30:41] [Server thread/INFO]: /op <targets>
-[13:30:41] [Server thread/INFO]: /pardon <targets>
-[13:30:41] [Server thread/INFO]: /pardon-ip <target>
-[13:30:41] [Server thread/INFO]: /particle <name> [<pos>]
-[13:30:41] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[13:30:41] [Server thread/INFO]: /recipe (give|take)
-[13:30:41] [Server thread/INFO]: /reload
-[13:30:41] [Server thread/INFO]: /replaceitem (block|entity)
-[13:30:41] [Server thread/INFO]: /save-all [flush]
-[13:30:41] [Server thread/INFO]: /save-off
-[13:30:41] [Server thread/INFO]: /save-on
-[13:30:41] [Server thread/INFO]: /say <message>
-[13:30:41] [Server thread/INFO]: /schedule (clear|function)
-[13:30:41] [Server thread/INFO]: /scoreboard (objectives|players)
-[13:30:41] [Server thread/INFO]: /seed
-[13:30:41] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[13:30:41] [Server thread/INFO]: /setidletimeout <minutes>
-[13:30:41] [Server thread/INFO]: /setworldspawn [<pos>]
-[13:30:41] [Server thread/INFO]: /spawnpoint [<targets>]
-[13:30:41] [Server thread/INFO]: /spectate [<target>]
-[13:30:41] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[13:30:41] [Server thread/INFO]: /stop
-[13:30:41] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[13:30:41] [Server thread/INFO]: /summon <entity> [<pos>]
-[13:30:41] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[13:30:41] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[13:30:41] [Server thread/INFO]: /teammsg <message>
-[13:30:41] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[13:30:41] [Server thread/INFO]: /tell -> msg
-[13:30:41] [Server thread/INFO]: /tellraw <targets> <message>
-[13:30:41] [Server thread/INFO]: /time (add|query|set)
-[13:30:41] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[13:30:41] [Server thread/INFO]: /tm -> teammsg
-[13:30:41] [Server thread/INFO]: /tp -> teleport
-[13:30:41] [Server thread/INFO]: /trigger <objective> [add|set]
-[13:30:41] [Server thread/INFO]: /w -> msg
-[13:30:41] [Server thread/INFO]: /weather (clear|rain|thunder)
-[13:30:41] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[13:30:41] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[13:30:41] [Server thread/INFO]: /xp -> experience
-[13:32:08] [Server thread/INFO]: Set the weather to rain
-[13:32:54] [Server thread/INFO]: Set the weather to rain & thunder
-[13:33:33] [Server thread/INFO]: Set the weather to clear
-[13:34:52] [Server thread/INFO]: Steelboot has made the advancement [Take Aim]
-[13:38:36] [Server thread/WARN]: Horse moved wrongly!
-[13:38:36] [Server thread/WARN]: Horse moved wrongly!
-[13:38:41] [Server thread/INFO]: Steelboot lost connection: Disconnected
-[13:38:41] [Server thread/INFO]: Steelboot left the game
-[13:38:42] [Server thread/WARN]: grumpina3443 was kicked for floating too long!
-[13:38:42] [Server thread/INFO]: grumpina3443 lost connection: Flying is not enabled on this server
-[13:38:42] [Server thread/INFO]: grumpina3443 left the game
-[13:38:52] [Server thread/INFO]: grumpina3443[/192.168.196.98:65173] logged in with entity id 15816 at (-220.76124230587112, 64.00133597911214, 86.72092786765349)
-[13:38:52] [Server thread/INFO]: grumpina3443 joined the game
-[13:43:53] [Server thread/INFO]: grumpina3443 lost connection: Timed out
-[13:43:53] [Server thread/INFO]: grumpina3443 left the game
-[13:44:00] [Server thread/INFO]: grumpina3443[/192.168.196.98:65217] logged in with entity id 16917 at (-275.41457694003725, 64.0, 37.293356110745584)
-[13:44:00] [Server thread/INFO]: grumpina3443 joined the game
-[13:52:58] [Server thread/INFO]: Steelboot[/192.168.196.11:51902] logged in with entity id 18833 at (-217.40878855347322, 63.85000001788139, 109.57810820082938)
-[13:52:58] [Server thread/INFO]: Steelboot joined the game
-[13:54:33] [Server thread/WARN]: Horse moved wrongly!
-[13:54:33] [Server thread/WARN]: Horse moved wrongly!
-[13:55:10] [Server thread/WARN]: Horse moved wrongly!
-[13:58:22] [Server thread/WARN]: Steelboot moved wrongly!
-[13:59:20] [Server thread/INFO]: Steelboot has made the advancement [Best Friends Forever]
-[13:59:41] [Server thread/WARN]: Horse moved wrongly!
-[13:59:41] [Server thread/WARN]: Horse moved wrongly!
-[14:00:13] [Server thread/INFO]: grumpina3443 has made the advancement [Best Friends Forever]
-[14:00:15] [Server thread/WARN]: grumpina3443 moved wrongly!
-[14:01:25] [Server thread/WARN]: Horse moved wrongly!
-[14:03:14] [Server thread/WARN]: Horse moved wrongly!
-[14:18:05] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-1003, y=84, z=-439} fk{x=-1006, y=83, z=-439}
-[14:40:45] [Server thread/INFO]: Steelboot drowned
-[14:40:55] [Server thread/INFO]: /advancement (grant|revoke)
-[14:40:55] [Server thread/INFO]: /ban <targets> [<reason>]
-[14:40:55] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[14:40:55] [Server thread/INFO]: /banlist [ips|players]
-[14:40:55] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[14:40:55] [Server thread/INFO]: /clear [<targets>]
-[14:40:55] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[14:40:55] [Server thread/INFO]: /data (get|merge|modify|remove)
-[14:40:55] [Server thread/INFO]: /datapack (disable|enable|list)
-[14:40:55] [Server thread/INFO]: /debug (report|start|stop)
-[14:40:55] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[14:40:55] [Server thread/INFO]: /deop <targets>
-[14:40:55] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[14:40:55] [Server thread/INFO]: /effect (clear|give)
-[14:40:55] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[14:40:55] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[14:40:55] [Server thread/INFO]: /experience (add|query|set)
-[14:40:55] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[14:40:55] [Server thread/INFO]: /forceload (add|query|remove)
-[14:40:55] [Server thread/INFO]: /function <name>
-[14:40:55] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[14:40:55] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[14:40:55] [Server thread/INFO]: /give <targets> <item> [<count>]
-[14:40:55] [Server thread/INFO]: /help [<command>]
-[14:40:55] [Server thread/INFO]: /kick <targets> [<reason>]
-[14:40:55] [Server thread/INFO]: /kill [<targets>]
-[14:40:55] [Server thread/INFO]: /list [uuids]
-[14:40:55] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
-[14:40:55] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[14:40:55] [Server thread/INFO]: /me <action>
-[14:40:55] [Server thread/INFO]: /msg <targets> <message>
-[14:40:55] [Server thread/INFO]: /op <targets>
-[14:40:55] [Server thread/INFO]: /pardon <targets>
-[14:40:55] [Server thread/INFO]: /pardon-ip <target>
-[14:40:55] [Server thread/INFO]: /particle <name> [<pos>]
-[14:40:55] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[14:40:55] [Server thread/INFO]: /recipe (give|take)
-[14:40:55] [Server thread/INFO]: /reload
-[14:40:55] [Server thread/INFO]: /replaceitem (block|entity)
-[14:40:55] [Server thread/INFO]: /save-all [flush]
-[14:40:55] [Server thread/INFO]: /save-off
-[14:40:55] [Server thread/INFO]: /save-on
-[14:40:55] [Server thread/INFO]: /say <message>
-[14:40:55] [Server thread/INFO]: /schedule (clear|function)
-[14:40:55] [Server thread/INFO]: /scoreboard (objectives|players)
-[14:40:55] [Server thread/INFO]: /seed
-[14:40:55] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[14:40:55] [Server thread/INFO]: /setidletimeout <minutes>
-[14:40:55] [Server thread/INFO]: /setworldspawn [<pos>]
-[14:40:55] [Server thread/INFO]: /spawnpoint [<targets>]
-[14:40:55] [Server thread/INFO]: /spectate [<target>]
-[14:40:55] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[14:40:55] [Server thread/INFO]: /stop
-[14:40:55] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[14:40:55] [Server thread/INFO]: /summon <entity> [<pos>]
-[14:40:55] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[14:40:55] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[14:40:55] [Server thread/INFO]: /teammsg <message>
-[14:40:55] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[14:40:55] [Server thread/INFO]: /tell -> msg
-[14:40:55] [Server thread/INFO]: /tellraw <targets> <message>
-[14:40:55] [Server thread/INFO]: /time (add|query|set)
-[14:40:55] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[14:40:55] [Server thread/INFO]: /tm -> teammsg
-[14:40:55] [Server thread/INFO]: /tp -> teleport
-[14:40:55] [Server thread/INFO]: /trigger <objective> [add|set]
-[14:40:55] [Server thread/INFO]: /w -> msg
-[14:40:55] [Server thread/INFO]: /weather (clear|rain|thunder)
-[14:40:55] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[14:40:55] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[14:40:55] [Server thread/INFO]: /xp -> experience
-[14:41:13] [Server thread/INFO]: grumpina3443 has made the advancement [Cover Me With Diamonds]
-[14:41:24] [Server thread/INFO]: Unknown command
-[14:41:24] [Server thread/INFO]: <--[HERE]
-[14:41:35] [Server thread/INFO]: Unknown command
-[14:41:35] [Server thread/INFO]: /xp<--[HERE]
-[14:41:38] [Server thread/INFO]: Incorrect argument for command
-[14:41:38] [Server thread/INFO]: /xp Steelboot<--[HERE]
-[14:41:44] [Server thread/INFO]: Unknown command
-[14:41:44] [Server thread/INFO]: /[A[A[B[Bxp 100<--[HERE]
-[14:41:48] [Server thread/INFO]: Incorrect argument for command
-[14:41:48] [Server thread/INFO]: /xp Steelboot 10000<--[HERE]
-[14:44:11] [Server thread/INFO]: Incorrect argument for command
-[14:44:11] [Server thread/INFO]: /teleport -1150/63/-682 Steelboot<--[HERE]
-[14:44:45] [Server thread/INFO]: Teleported Steelboot to kunkkaII
-[14:44:45] [Server thread/WARN]: Steelboot moved too quickly! -852.505372496682,0.0,-606.2820017416666
-[14:44:46] [Server thread/WARN]: Steelboot moved too quickly! -852.505372496682,0.0,-606.2820017416666
-[14:46:31] [Server thread/WARN]: grumpina3443 moved too quickly! 4.533810144483823,-0.12064726329807485,-8.990257131747967
-[14:50:20] [Server thread/INFO]: Unknown command
-[14:50:20] [Server thread/INFO]: /experience add Steelboot 25 levels<--[HERE]
-[14:50:35] [Server thread/INFO]: Unknown command
-[14:50:35] [Server thread/INFO]: [A[D[B/experience add Steelboot 20 levels<--[HERE]
-[14:50:43] [Server thread/INFO]: Gave 25 experience levels to Steelboot
-[14:50:55] [Server thread/WARN]: kunkkaII moved wrongly!
-[14:51:16] [Server thread/INFO]: Steelboot lost connection: Disconnected
-[14:51:16] [Server thread/INFO]: Steelboot left the game
-[14:53:09] [Server thread/WARN]: kunkkaII moved wrongly!
-[14:54:07] [Server thread/WARN]: Boat moved wrongly!
-[14:54:07] [Server thread/WARN]: Boat moved wrongly!
-[14:54:07] [Server thread/WARN]: Boat moved wrongly!
-[15:27:27] [Server thread/WARN]: Horse moved wrongly!
-[15:27:27] [Server thread/WARN]: Horse moved wrongly!
-[15:27:27] [Server thread/WARN]: Horse moved wrongly!
-[15:27:27] [Server thread/WARN]: Horse moved wrongly!
-[15:27:27] [Server thread/WARN]: Horse moved wrongly!
-[15:27:27] [Server thread/WARN]: Horse moved wrongly!
-[15:27:27] [Server thread/WARN]: Horse moved wrongly!
-[15:27:27] [Server thread/WARN]: Horse moved wrongly!
-[15:35:02] [Server thread/WARN]: grumpina3443 moved too quickly! 2.749964274777568,0.0625,9.70700765084969
-[15:47:28] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
-[15:47:28] [Server thread/INFO]: grumpina3443 left the game
-[15:49:06] [Server thread/INFO]: kunkkaII lost connection: Disconnected
-[15:49:06] [Server thread/INFO]: kunkkaII left the game
-[15:55:58] [Server thread/INFO]: Stopping the server
-[15:55:58] [Server thread/INFO]: Stopping server
-[15:55:58] [Server thread/INFO]: Saving players
-[15:55:58] [Server thread/INFO]: Saving worlds
-[15:55:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[15:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:55:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[15:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:55:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[15:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:55:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:49:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:49:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:49:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:49:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:49:03] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:49:03] [Server thread/INFO]: Loading properties
+[10:49:03] [Server thread/INFO]: Default game type: SURVIVAL
+[10:49:03] [Server thread/INFO]: Generating keypair
+[10:49:03] [Server thread/INFO]: Starting Minecraft server on 192.168.196.11:25565
+[10:49:03] [Server thread/INFO]: Using default channel type
+[10:49:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:49:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:49:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:49:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:49:04] [Server thread/INFO]: Preparing level "world"
+[10:49:04] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:49:05] [Server thread/INFO]: Loaded 6 recipes
+[10:49:05] [Server thread/INFO]: Loaded 825 advancements
+[10:49:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:49:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:49:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:49:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:49:08] [Server thread/INFO]: Preparing spawn area: 0%
+[10:49:10] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[10:49:10] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[10:49:10] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[10:49:10] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[10:49:10] [Server thread/INFO]: Preparing spawn area: 0%
+[10:49:10] [Server thread/INFO]: Time elapsed: 4303 ms
+[10:49:10] [Server thread/INFO]: Done (6.141s)! For help, type "help"
+[10:49:30] [Server thread/INFO]: grumpina3443[/192.168.196.98:54425] logged in with entity id 221 at (-236.7386628542729, 65.0, 59.41313758258357)
+[10:49:30] [Server thread/INFO]: grumpina3443 joined the game
+[11:07:05] [Server thread/INFO]: Enrahedron[/192.168.196.144:60966] logged in with entity id 2988 at (-212.9816189429937, 63.0, 92.72186864030095)
+[11:07:05] [Server thread/INFO]: Enrahedron joined the game
+[11:11:57] [Server thread/WARN]: grumpina3443 moved too quickly! -1.6419986924747434,0.001335979112141672,-10.033188080826513
+[11:14:25] [Server thread/WARN]: grumpina3443 moved too quickly! -1.182200648016817,-11.418310847881429,1.7090610126414987
+[11:14:38] [Server thread/WARN]: grumpina3443 moved too quickly! 10.001378185190447,0.5,0.15444665151225223
+[11:17:35] [Server thread/INFO]: Enrahedron lost connection: Disconnected
+[11:17:35] [Server thread/INFO]: Enrahedron left the game
+[11:30:57] [Server thread/INFO]: grumpina3443 lost connection: Disconnected
+[11:30:57] [Server thread/INFO]: grumpina3443 left the game
+[11:33:52] [Server thread/INFO]: Stopping the server
+[11:33:52] [Server thread/INFO]: Stopping server
+[11:33:52] [Server thread/INFO]: Saving players
+[11:33:52] [Server thread/INFO]: Saving worlds
+[11:33:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[11:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:33:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[11:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:33:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:33:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
